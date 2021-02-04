@@ -13,9 +13,17 @@ Schematic:
 
 PCB top view: 
 
-![Alt Text](/PCB_top.PNG)
+![Alt Text](/Buck_PCB_front.PNG)
 
 PCB bottom view: 
+
+![Alt Text](/Buck_PCB_back.PNG)
+
+PCB top rendering: 
+
+![Alt Text](/PCB_top.PNG)
+
+PCB bottom rendering: 
 
 ![Alt Text](/PCB_bottom.PNG)
 
