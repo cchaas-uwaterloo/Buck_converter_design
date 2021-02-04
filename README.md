@@ -9,4 +9,4 @@ Theoretical characteristics:
 
 Schematic: 
 
-![Alt Text](/Schematic.pdf)
+![Alt Text](/schematic.pdf)
