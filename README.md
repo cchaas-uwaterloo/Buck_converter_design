@@ -1,6 +1,13 @@
 # Buck_converter_design
 Guided design of a Buck SMPS for EPFL EE-365 course. Project tasks: 
-  - desn
+  - design of power circuit based on provided design specifications 
+  - selection of heat-sinks (if required) for power circuit semi-conductor components based on operating conditions 
+  - selection of main control circuit components (PWM controller, auxiliary power supply, etc. from list of recommended alternatives)
+  - design of passive control circuit based on Application Notes for main components
+  - design of inductor based on available cores 
+  - efficiency/loss analysis
+  - schematic layout (in Altium)
+  - PCB layout (in Altium)
 
 Design specifications:
 
