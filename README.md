@@ -10,3 +10,12 @@ Theoretical characteristics:
 Schematic: 
 
 ![Alt Text](/Schematic_capture.PNG)
+
+PCB top view: 
+
+![Alt Text](/PCB_top.PNG)
+
+PCB bottom view: 
+
+![Alt Text](/PCB_bottom.PNG)
+
