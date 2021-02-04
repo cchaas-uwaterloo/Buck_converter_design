@@ -5,7 +5,9 @@ Design specifications:
 
 ![Alt Text](/Design_Specs.PNG)
 
-Theoretical characteristics: 
+Efficiency breakdown: 
+
+![Alt Text](/Power_loss_breakdown.PNG)
 
 Schematic: 
 
