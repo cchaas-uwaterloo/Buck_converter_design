@@ -1,5 +1,5 @@
 # Buck_converter_design
-Guided design of a Buck SMPS for EPFL EE-365 course. Project tasks: 
+Guided design of a Buck SMPS for the EE-365 Power Electronics course at the Ecole Polytechnique Federale de Lausanne (EPFL). The principle tasks completed for the project include: 
   - design of power circuit based on provided design specifications 
   - selection of heat-sinks (if required) for power circuit semi-conductor components based on operating conditions 
   - selection of main control circuit components (PWM controller, auxiliary power supply, etc. from list of recommended alternatives)
