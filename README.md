@@ -1,5 +1,6 @@
 # Buck_converter_design
-Design of a Buck SMPS for EPFL EE-365 course.
+Guided design of a Buck SMPS for EPFL EE-365 course. Project tasks: 
+  - desn
 
 Design specifications:
 
